@@ -20,11 +20,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.adobe.aem.guides</groupId>
-    <artifactId>aem-guides-wknd</artifactId>
+    <artifactId>aem-my-project</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>WKND Sites Project</name>
-    <description>WKND Sites Project</description>
+    <name>My Project</name>
+    <description>My Project</description>
 
     <modules>
         <module>all</module>
@@ -56,7 +56,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <aem.sdk.api>2022.3.6582.20220307T234020Z-220100</aem.sdk.api>
         <aemanalyser.version>1.3.0</aemanalyser.version>
-        <componentGroupName>WKND Sites Project</componentGroupName>
+        <componentGroupName>My project</componentGroupName>
     </properties>
 
     <build>
